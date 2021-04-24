@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya9899" alt="chaitanya9899" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@chaituemandi" target="blank"><img src="https://img.shields.io/twitter/follow/@chaituemandi?logo=twitter&style=for-the-badge" alt="chaituemandi" /></a> </p>
+
 
 - 🌱 I’m currently learning **Django ,Rest API**
 
