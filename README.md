@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **Django ,Rest API**
+- 🌱 I’m currently learning **HDFS,PYSPARK ,Rest API**
 
-- 💬 Ask me about **Machine Learning , Deep Learning**
+- 💬 Ask me about **Machine Learning , Deep Learning ,Data Mining,Rest API,Data Extraction**
 
 - 📫 How to reach me **chaitu.emandi@gmail.com**
 
