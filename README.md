@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **HDFS,PYSPARK ,Rest API**
+- 🌱 I’m currently learning **MLOPS,AWS,GCP,Gen AI**
 
 - 💬 Ask me about **Machine Learning , Deep Learning ,Data Mining,Rest API,Data Extraction**
 
